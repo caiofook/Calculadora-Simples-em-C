@@ -1,5 +1,5 @@
 # Calculadora-Simples-em-C
-Calculadora simples em C para fins de aprendizado na linguagem
+##Calculadora simples em C para fins de aprendizado na linguagem
 
 Trata-se de uma calculadora básica em C com operações de soma, subtração, divisão, multiplicação, radiciação, potenciação e "resto de divisão".
 Foi desenvolvida para fins de aprendizado na linguagem C.
@@ -9,4 +9,4 @@ Existem duas versões. A diferença entre as duas versões é que a segunda foi 
 
 O motivo de existirem duas versões foi apenas a curiosidade de testar desenvolver exatamente a mesma coisa utilizando códigos completamente distintos.
 
-A ideia do projeto, de onde retirei o pseudocódigo base, veio dessa série de artigos: https://www.embarcados.com.br/serie/introducao-a-algoritmos/.
+A ideia do projeto, de onde retirei o pseudocódigo base, veio dessa série de artigos: https://www.embarcados.com.br/serie/introducao-a-algoritmos/, por Elaine Cecília Gatto.
